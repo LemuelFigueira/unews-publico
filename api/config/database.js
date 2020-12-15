@@ -7,7 +7,7 @@ mongoose.Promise = global.Promise;
 const uriMongo = "seuUri"
 const uriLocal = "mongodb://localhost/unews-1";
 
-mongoose.connect(uriMongo, {
+mongoose.connect(uriLocal, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true
