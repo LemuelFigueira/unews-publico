@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ruhollah Zam: Iran executes journalist accused of fanning unrest",
+        "description": "Ruhollah Zam, who ran a website that Iran accused of inciting violence, was detained last year.",
+        "url": "http://www.bbc.co.uk/news/world-middle-east-55285301",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AD40/production/_109225344_ruhollahzamtwitter.jpg",
+        "publishedAt": "2020-12-12T15:37:25.8921462Z",
+        "content": "image captionRuhollah Zam was arrested last year\r\nIran has executed a journalist who was accused of using a messaging app to stir up dissent.\r\nRuhollah Zam was hanged on Saturday after the supreme co… [+2538 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Nigeria school attack: Hundreds missing after gunmen attack building in Katsina",
+        "description": "Gunmen on motorbikes raid a boarding school, home to some 800 boys, in north-western Katsina state.",
+        "url": "http://www.bbc.co.uk/news/world-africa-55288114",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14B08/production/_116044748_photo-2020-12-12-11-45-20.jpg",
+        "publishedAt": "2020-12-12T15:37:18.987615Z",
+        "content": "image captionMany parents who found their children after the attack quickly took them home\r\nHundreds of students are reportedly missing after gunmen raided a secondary school in north-western Nigeria… [+1700 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Brexit: No-deal Navy threat 'irresponsible', says Tobias Ellwood",
+        "description": "A senior Conservative says deploying gunboats to patrol UK waters after 31 December is \"undignified\".",
+        "url": "http://www.bbc.co.uk/news/uk-politics-55286439",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C764/production/_116044015_gettyimages-1212194442.jpg",
+        "publishedAt": "2020-12-12T14:37:25.5737646Z",
+        "content": "image copyrightGetty Images\r\nDeploying Royal Navy gunboats to protect UK fishing waters under a no-deal Brexit would be \"undignified\", a former Conservative minister has said.\r\nTory MP Tobias Ellwood… [+4994 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Climate change: UK to end aid for fossil fuel projects abroad",
+        "description": "As the UK hosts a key climate summit, the government announces an end to funding for oil and gas abroad.",
+        "url": "http://www.bbc.co.uk/news/science-environment-55276769",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/403B/production/_116034461_borisreu1.jpg",
+        "publishedAt": "2020-12-12T11:52:22.9118497Z",
+        "content": "By Matt McGrathEnvironment correspondent\r\nimage captionBoris Johnson will host a virtual climate summit for world leaders\r\nThe government has announced that it will end direct support for overseas fo… [+6576 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Zodiac Killer: Code-breakers solve San Francisco killer's cipher",
+        "description": "A three-strong amateur team decodes one of several messages attributed to a US serial killer.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-55285805",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A215/production/_116039414_gettyimages-515392386.jpg",
+        "publishedAt": "2020-12-12T10:07:24.7437969Z",
+        "content": "image copyrightGetty Images\r\nimage captionSan Francisco police published sketches of the suspect in 1969\r\nCode-breakers have cracked a 340-character cipher 51 years after it was purportedly sent to t… [+2139 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Covid-19 in the US: Bleak winter ahead as deaths surge",
+        "description": "A vaccine may be on its way but the US must get through its toughest period of the pandemic first.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-54966531",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/28C1/production/_116033401_us_corona_promo.jpg",
+        "publishedAt": "2020-12-12T04:22:23.7339753Z",
+        "content": "By Mike HillsVisual journalist\r\nAmericans should start being vaccinated against coronavirus in the coming days, providing some light at the end of the tunnel for the country with the highest death to… [+5926 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Brexit: UK-EU trade talks to resume with one day to go",
+        "description": "Four Royal Navy boats have been placed on standby to patrol UK waters as negotiations enter their final hours.",
+        "url": "http://www.bbc.co.uk/news/uk-politics-55283489",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E65D/production/_116037985_pa-57049020.jpg",
+        "publishedAt": "2020-12-12T03:07:25.9716222Z",
+        "content": "image captionThere are long queues of traffic at the port of Dover as the clock ticks down for a trade deal to be reached\r\nTrade talks between the UK and European Union are due to resume in Brussels … [+4585 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "What is climate change?",
+        "description": "It's been linked to a year of extremes – from bushfires to torrential rains – but what is it?",
+        "url": "http://www.bbc.co.uk/news/science-environment-51129250",
+        "urlToImage": "https://ichef.bbci.co.uk/images/ic/400xn/p080hmjm.png",
+        "publishedAt": "2020-12-12T00:22:17.6367298Z",
+        "content": "A major UN meeting is due to take place in 2021 in Glasgow in Scotland.\r\nNations will be revealing how they intend to cut their greenhouse gas emissions. Which means well find out if their commitment… [+282 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US Supreme Court rejects Trump-backed bid to overturn election",
+        "description": "The lawsuit sought to invalidate results in four states where President Trump lost the US election.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-55283024",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D7B/production/_116038037_epa.jpg",
+        "publishedAt": "2020-12-12T00:07:19.3342559Z",
+        "content": "The US Supreme Court has rejected an unprecedented attempt to throw out election results in four battleground states that was backed by President Donald Trump.\r\nThe lawsuit, filed this week by the st… [+1174 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Covid vaccine: US experts recommend Pfizer vaccine approval",
+        "description": "A panel of advisers to the US Food and Drug Administration deem the vaccine safe and effective.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-55265477",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/40E1/production/_115990661_tv064724593.jpg",
+        "publishedAt": "2020-12-10T22:52:20.7045317Z",
+        "content": "media captionUS Covid vaccine: Three key questions answered\r\nMedical experts advising the US Food and Drug Administration (FDA) have recommended emergency approval for the Pfizer-BioNTech coronavirus… [+1863 chars]"
+      }
+    ]
+  }

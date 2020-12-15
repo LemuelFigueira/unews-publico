@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Sporting News"
+        },
+        "author": "Sporting News",
+        "title": "Neymar, esquecido em lista de melhores da Fifa, provoca crítica indignada e até deboche - Goal.com",
+        "description": "Borussia Dortmund striker Erling Haaland “would be a great fit at Liverpool”, says John Barnes, but the Reds legend has warned that a move for Juventus forward Paulo Dybala “wouldn’t make any sense”.",
+        "url": "https://www.sportingnews.com/ca/soccer",
+        "urlToImage": "https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
+        "publishedAt": "2020-12-12T14:48:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Uol.com.br"
+        },
+        "author": "UOL",
+        "title": "Impacto da vacinação nos EUA deve ser sentido em março, diz CEO da BioNTech - UOL Notícias",
+        "description": "Após a FDA (Food and Drug Administration) aprovar a liberação do uso emergencial da vacina contra a covid-19 produzida pelas farmacêuticas Pfizer e BioNTech, a expectativa é de que seja anunciado o início de uma grande campanha de vacinação nos Estados Un",
+        "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/12/12/impacto-da-vacinacao-nos-eua-deve-ser-sentido-em-marco-diz-ceo-da-biontech.htm",
+        "urlToImage": "https://conteudo.imguol.com.br/c/entretenimento/50/2020/11/06/vacina-1604675513316_v2_615x300.jpg",
+        "publishedAt": "2020-12-12T14:41:18Z",
+        "content": "Após a FDA (Food and Drug Administration) aprovar a liberação do uso emergencial da vacina contra a covid-19 produzida pelas farmacêuticas Pfizer e BioNTech, a expectativa é de que seja anunciado o i… [+1963 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Uol.com.br"
+        },
+        "author": "UOL",
+        "title": "Ministro das comunicações homenageia 90 anos do sogro Silvio Santos - UOL",
+        "description": "Ministro das Comunicações do governo Jair Bolsonaro (sem partido), Fábio Faria (PSD-RN), 42, publicou hoje no Twitter uma série de fotos em homenagem ao aniversariante do dia, o sogro e apresentador Silvio Santos.Na publicação, o marido de Patricia Abrava",
+        "url": "https://tvefamosos.uol.com.br/noticias/redacao/2020/12/12/fabio-faria-silvio-santos-90-anos-aniversario-homenagem-ministro.htm",
+        "urlToImage": "https://conteudo.imguol.com.br/c/noticias/7b/2020/12/12/fabio-faria-compartilha-imagens-com-o-sogro-silvio-santos-1607782135849_v2_615x300.jpg",
+        "publishedAt": "2020-12-12T14:33:10Z",
+        "content": "Ministro das Comunicações do governo Jair Bolsonaro (sem partido), Fábio Faria (PSD-RN), 42, publicou hoje no Twitter uma série de fotos em homenagem ao aniversariante do dia, o sogro e apresentador … [+1468 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Uol.com.br"
+        },
+        "author": null,
+        "title": "Verstappen supera Mercedes e faz pole em Abu Dhabi; Fittipaldi sai em 17º - UOL Esporte",
+        "description": "O holandês Max Verstappen surpreendeu na definição do grid para o GP de Abu Dhabi, superou as Mercedes e larga em primeiro na última etapa do ano. O piloto da Red Bull fez o tempo de 1min35s246 e ele divide a primeira fila com Valtteri Bottas; Lewis Ha",
+        "url": "https://www.uol.com.br/esporte/colunas/pole-position/2020/12/12/verstappen-surpreende-crava-pole-no-gp-de-abu-dhabi-fittipaldi-sai-em-17.htm",
+        "urlToImage": "https://conteudo.imguol.com.br/c/esporte/66/2020/12/12/max-verstappen-da-red-bull-fez-a-pole-position-para-o-gp-de-abu-dhabi-1607781676600_v2_615x300.jpg",
+        "publishedAt": "2020-12-12T14:26:15Z",
+        "content": "O holandês Max Verstappen surpreendeu na definição do grid para o GP de Abu Dhabi, superou as Mercedes e larga em primeiro na última etapa do ano. O piloto da Red Bull fez o tempo de 1min35s246 e ele… [+5245 chars]"
+      },
+      {
+        "source": {
+          "id": "globo",
+          "name": "Globo"
+        },
+        "author": null,
+        "title": "Entenda por que o Corinthians ofereceu e o São Paulo recusou 20% dos direitos de Léo Natel - globoesporte.com",
+        "description": "Hoje no Timão, atacante vai reencontrar o ex-clube no clássico deste domingo, em Itaquera",
+        "url": "https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/noticia/entenda-por-que-o-corinthians-ofereceu-e-o-sao-paulo-recusou-20percent-dos-direitos-de-leo-natel.ghtml",
+        "urlToImage": "https://s2.glbimg.com/_jIgNVwMkEmwSDmh2vfD2eMlNTA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/p/b/kRmjCfRXS5bkzsj44vqg/agenciacorinthians-foto-168239.jpg",
+        "publishedAt": "2020-12-12T14:00:00Z",
+        "content": "O atacante Léo Natel começará no banco de reservas o clássico entre Corinthians e São Paulo, neste domingo, às 18h15, na Neo Química Arena, pelo Brasileirão. No início deste ano, porém, ele teve pape… [+2441 chars]"
+      },
+      {
+        "source": {
+          "id": "globo",
+          "name": "Globo"
+        },
+        "author": null,
+        "title": "EUA voltam a registrar mais de 3 mil mortes por Covid em 24 horas - G1",
+        "description": "Levantamento da Universidade Johns Hopkins aponta 3.309 novas mortes por coronavírus apenas na última sexta-feira (11); país é o mais afetado pela pandemia no mundo.",
+        "url": "https://g1.globo.com/bemestar/coronavirus/noticia/2020/12/12/eua-voltam-a-registrar-mais-de-3-mil-mortes-por-covid-em-24-horas.ghtml",
+        "urlToImage": "https://s2.glbimg.com/pG1AGLPS39ZQcEJol5BHHxBDcHI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/Q/m/HwS5pwSqGQP3AGgjuPVg/captura-de-tela-2020-12-12-as-10.32.55.png",
+        "publishedAt": "2020-12-12T13:27:00Z",
+        "content": "Os Estados Unidos registraram 3.309 mortes por Covid-19 nas últimas 24 horas, segundo o levantamento da Universidade Johns Hopkins divulgado neste sábado (12). Essa é a segunda vez, em quatro dias, q… [+2558 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Legiaodosherois.com.br"
+        },
+        "author": "https://www.facebook.com/Mjangarelli",
+        "title": "The Game Awards: 10 melhores anúncios feitos durante a premiação - Legião dos Heróis",
+        "description": null,
+        "url": "https://www.legiaodosherois.com.br/lista/game-awards-2020-melhores-anuncios-premiacoes.html",
+        "urlToImage": "https://kanto.legiaodosherois.com.br/w728-h381-gnw-cfill/wp-content/uploads/2020/12/legiao_7Kbmtu9TxGiP.png.jpeg",
+        "publishedAt": "2020-12-12T13:26:00Z",
+        "content": "Mais jogos para a nossa listinha de 2021 e além!\r\nEm um ano sem E3, mas com o início de uma nova geração de consoles e jogos incríveis saindo por todos os lados, todos estavam ligados no The Game Awa… [+305 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Uol.com.br"
+        },
+        "author": null,
+        "title": "Investimento pesado e tecnologia aceleraram vacina contra Covid - Folha de S.Paulo",
+        "description": "Tempo recorde visto na produção dos imunizantes não é regra na história, mas condiz com a emergência sanitária",
+        "url": "https://www1.folha.uol.com.br/equilibrioesaude/2020/12/investimento-pesado-e-tecnologia-aceleraram-vacina-contra-covid.shtml",
+        "urlToImage": "https://f.i.uol.com.br/fotografia/2020/07/11/15944933505f0a09a6c23bb_1594493350_3x2_rt.jpg",
+        "publishedAt": "2020-12-12T13:00:00Z",
+        "content": "A corrida por uma vacina contra a Covid-19 trouxe à tona uma questão até então pouco debatida: o tempo e os custos para o lançamento e produção de uma vacina.\r\nHouve algum estranhamento quando, recen… [+7928 chars]"
+      },
+      {
+        "source": {
+          "id": "globo",
+          "name": "Globo"
+        },
+        "author": null,
+        "title": "Festas de fim de ano no Ceará: decreto cria regras para shoppings, comércio e celebrações em casa - G1",
+        "description": "Festas e eventos sociais estarão proibidos no Natal e réveillon, conforme decreto assinado pelo governador Camilo Santana para conter o avanço de novos casos da Covid-19.",
+        "url": "https://g1.globo.com/ce/ceara/noticia/2020/12/12/veja-as-regras-para-festas-e-eventos-de-fim-de-ano-no-ceara-em-casas-shoppings-hoteis-e-comercio.ghtml",
+        "urlToImage": "https://s2.glbimg.com/ODA_BaICj4vFqcMoThdVT_FhgSc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/b/P/NxAh5YQhuqBSKbnCrPlA/coronavac.jpg",
+        "publishedAt": "2020-12-12T12:50:00Z",
+        "content": "Um decreto do Governo do Estado do Ceará publicado na sexta-feira (12) determina regras para o funcionamento do comércio e atividades durante o período de fim de ano. Entre 15 de dezembro e 4 de jane… [+3800 chars]"
+      },
+      {
+        "source": {
+          "id": "globo",
+          "name": "Globo"
+        },
+        "author": null,
+        "title": "Governo prepara MP de R$ 20 bilhões para comprar e centralizar entrega de vacinas - Época NEGÓCIOS",
+        "description": "Com a medida, o ministro da Saúde, Eduardo Pazuello, deve reforçar o discurso de que a sua pasta vai comprar e distribuir todas as vacinas disponíveis do país, incluindo a Coronavac",
+        "url": "https://epocanegocios.globo.com/Economia/noticia/2020/12/epoca-negocios-governo-prepara-mp-de-r-20-bi-para-comprar-e-centralizar-entrega-de-vacinas.html",
+        "urlToImage": "https://s2.glbimg.com/Cr0B0q9eIlIJkOzBXrLHfOPfpyA=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/11/27/pexels-maksim-goncharenok-5994572.jpg",
+        "publishedAt": "2020-12-12T12:36:21Z",
+        "content": "Vacina contra o novo coronavírus (Foto: Pexels)\r\nO governo Jair Bolsonaro vai editar uma Medida Provisória para abrir crédito de R$ 20 bilhões para compra de vacinas contra a covid-19. Com a medida, … [+4099 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ig.com.br"
+        },
+        "author": "iG Gente",
+        "title": "'A Fazenda 12': Para Biel, Jojo desdenhou da força de Lidi Lisboa no jogo - Gente",
+        "description": "Na noite de ontem aconteceu uma formação de roça surpresa. Sendo a mais votada pela casa, Jojo puxou Lidi Lisboa para a berlinda. Para Biel, a funkeira não o puxou para ter chances de voltar",
+        "url": "https://gente.ig.com.br/tvenovela/2020-12-12/a-fazenda-12-para-biel-jojo-desdenhou-da-forca-de-lidi-lisboa-no-jogo.html",
+        "urlToImage": "https://i0.statig.com.br/bancodeimagens/br/fo/6j/brfo6j8vjo7nqowii489nucp0.jpg",
+        "publishedAt": "2020-12-12T12:09:00Z",
+        "content": "Em roça surpresa que aconteceu na noite de sexta-feira (11),\r\n Jojo Todynho foi a mais votada pela casa e puxou  Lidi Lisboa\r\n para a berlinda, apesar de ter podido levar Biel. Para o cantor, a funke… [+629 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tudocelular.com"
+        },
+        "author": "TudoCelular.com",
+        "title": "Vazou de novo! Galaxy S21 Plus aparece em vídeo sendo comparado ao iPhone 12 Pro Max - Tudocelular.com",
+        "description": "Top de linha vindouro da Samsung vaza em mais um vídeo, desta vez, sendo comparado ao flagship da Apple.",
+        "url": "https://www.tudocelular.com/samsung/noticias/n167565/s21-plus-iphone-12-pro-max.html",
+        "urlToImage": "https://t2.tudocdn.net/552992?w=1200",
+        "publishedAt": "2020-12-12T11:54:05Z",
+        "content": "Menos de 24 horas após o primeiro vazamento em vídeo do vindouro Galaxy S21 Plus da Samsung, e já temos outro leak envolvendo o top de linha – desta vez, o comparando a um de seus principais rivais, … [+1205 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ebc.com.br"
+        },
+        "author": null,
+        "title": "Caixa paga hoje penúltima parcela do auxílio emergencial - Agência Brasil",
+        "description": "A Caixa inicia hoje o pagamento da penúltima parcela do auxílio emergencial extensão. Cerca de 3,3 milhões de pessoas receberão a parcela.",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2020-12/caixa-paga-hoje-penultima-parcela-do-auxilio-emergencial",
+        "urlToImage": "https://imagens.ebc.com.br/kutf_EXKSvgVYcv3ZX5AXWSP0U4=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/auxilio_emergencial_caixa_1510202276.jpg?itok=XyFhdRHJ",
+        "publishedAt": "2020-12-12T11:51:00Z",
+        "content": "Cerca de 3,3 milhões de beneficiários do ciclo 5 nascidos em dezembro receberão hoje (12) R$ 1,05 bilhão em suas contas poupança social digital. Desse total, 158,6 mil receberão R$ 95,2 milhões refer… [+2465 chars]"
+      },
+      {
+        "source": {
+          "id": "globo",
+          "name": "Globo"
+        },
+        "author": "O Globo",
+        "title": "Irã executa jornalista dissidente Ruhollah Zam - Jornal O Globo",
+        "description": "Criador de canal on-line foi acusado de fomentar a violência durante protestos antigovernamentais em 2017",
+        "url": "https://oglobo.globo.com/mundo/ira-executa-jornalista-dissidente-ruhollah-zam-1-24794404",
+        "urlToImage": "https://ogimg.infoglobo.com.br/in/24794402-0c2-d5e/FT1086A/652/90781091_Ruhollah-Zam-a-dissident-journalist-who-was-captured-in-what-Tehran-calls-an-intelligen.jpg",
+        "publishedAt": "2020-12-12T11:21:00Z",
+        "content": "DUBAI O Irã executou, neste sábado, o jornalista e ativista Ruhollah Zam, de 42 anos, informou uma TV estatal. Responsável pelo canal on-line Amadnews, que tinha mais de um milhão de seguidores, o ir… [+1349 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Otempo.com.br"
+        },
+        "author": "O TEMPO",
+        "title": "Athletico-PR x Atlético: onde acompanhar, escalações e tudo sobre a partida - O Tempo",
+        "description": "Confira todas as informações do jogo deste sábado, em Curitiba",
+        "url": "https://www.otempo.com.br/superfc/atletico/athletico-pr-x-atletico-onde-acompanhar-escalacoes-e-tudo-sobre-a-partida-1.2423901",
+        "urlToImage": "https://www.otempo.com.br/image/contentid/policy:1.2423905:1607719164/50621101391_738d1fcb3b_w.jpg?f=3x2&w=620&$p$f$w=6fae01f",
+        "publishedAt": "2020-12-12T11:00:00Z",
+        "content": "Athletico-PR e Atlético se enfrentam neste sábado (12), às 17h, na Arena da Baixada, em partida válida pela 25ª rodada do Campeonato Brasileiro. Para encurtar a distância de sete pontos do líder São … [+2122 chars]"
+      },
+      {
+        "source": {
+          "id": "globo",
+          "name": "Globo"
+        },
+        "author": null,
+        "title": "Bolívia reconhece pela 1ª vez a união civil entre pessoas do mesmo sexo - G1",
+        "description": "Guido Montaño e David Aruquipa tiveram sua união reconhecida pelo cartório de registro civil de La Paz, nesta sexta-feira (11), depois de dois anos de uma longa batalha judicial.",
+        "url": "https://g1.globo.com/mundo/noticia/2020/12/12/bolivia-reconhece-pela-1a-vez-a-uniao-civil-entre-pessoas-do-mesmo-sexo.ghtml",
+        "urlToImage": "https://s2.glbimg.com/s037tv1fjpzP_k7xkJGzF8TYDEw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/G/j/qNlxPeSxuyqoSCGS80oQ/2020-12-11t225641z-1494883869-rc2alk9e40rc-rtrmadp-3-bolivia-lgbt-civil-union.jpg",
+        "publishedAt": "2020-12-12T10:52:00Z",
+        "content": "O registro civil da Bolívia autorizou, pela primeira vez no país, uma união entre pessoas mesmo sexo. O reconhecimento foi dado nesta sexta-feira (11), depois de uma longa batalha judicial que durou … [+1395 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techtudo.com.br"
+        },
+        "author": null,
+        "title": "Requisitos de Cyberpunk 2077 e como fazer download no PC, PS4 e Xbox One - TechTudo",
+        "description": "Veja o que é necessário para baixar e rodar perfeitamente o jogo mais esperado de 2020 no seu computador",
+        "url": "https://www.techtudo.com.br/dicas-e-tutoriais/2020/12/requisitos-de-cyberpunk-2077-e-como-fazer-download-no-pc-ps4-e-xbox-one.ghtml",
+        "urlToImage": "https://s2.glbimg.com/X8gMC-7a8OKRMXMLQk6XJJLgC_E=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/m/p/GjclrJQYqWa6eZsmtZdA/ss-b0e953c8959c6e0ba1bf6f024239b6b35cf4fc54.1920x1080.jpg",
+        "publishedAt": "2020-12-12T10:00:00Z",
+        "content": "Vale lembrar que, além das versões para PC, PS4e Xbox One, Cyberpunk 2077 também rodará nos novos PlayStation 5 (PS5) e Xbox Series X/S, via retrocompatibilidade. No futuro, o game receberá uma atual… [+4616 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": null,
+        "title": "Covid: estudo sobre vacina da Pfizer mostra ensaio clínico cuidadoso com resultados inquestionáveis - Saúde Estadão",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL3NhdWRlLmVzdGFkYW8uY29tLmJyL25vdGljaWFzL2dlcmFsLGVzdHVkby1kYS1wZml6ZXItbW9zdHJhLWVuc2Fpby1jbGluaWNvLWN1aWRhZG9zby1jb20tcmVzdWx0YWRvcy1pbnF1ZXN0aW9uYXZlaXMsNzAwMDM1NDkzMDbSAYsBaHR0cHM6Ly9zYXVkZS5lc3RhZGFvLmNvbS5ici9ub3RpY2lhcy9nZXJhbCxlc3R1ZG8tZGEtcGZpemVyLW1vc3RyYS1lbnNhaW8tY2xpbmljby1jdWlkYWRvc28tY29tLXJlc3VsdGFkb3MtaW5xdWVzdGlvbmF2ZWlzLDcwMDAzNTQ5MzA2LmFtcA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2020-12-12T08:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gazetadopovo.com.br"
+        },
+        "author": "Gazeta do Povo",
+        "title": "Mandetta diz que mortes da Covid-19 no Brasil são responsabilidade de Bolsonaro - Gazeta do Povo",
+        "description": "Mandetta afirmou em entrevista a Globonews que apresentou a Bolsonaro a estimativa de que o Brasil poderia chegar a 180 mil mortes por Covid-19.",
+        "url": "https://www.gazetadopovo.com.br/republica/breves/mandetta-diz-que-mortes-covid-brasil-responsabilidade-de-bolsonaro/",
+        "urlToImage": "https://media.gazetadopovo.com.br/2020/09/25103533/49728951651_c63901ce5f_c-660x372.jpg",
+        "publishedAt": "2020-12-12T00:19:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "globo",
+          "name": "Globo"
+        },
+        "author": null,
+        "title": "Suprema Corte dos EUA rejeita ação do Texas para reverter derrota de Trump nas eleições - G1",
+        "description": "Negativa na corte, que tem maioria conservadora, representa mais uma derrota para o republicano. Nem mesmo juízes nomeados por Trump votaram a favor de acolher a petição.",
+        "url": "https://g1.globo.com/mundo/eleicoes-nos-eua/2020/noticia/2020/12/11/suprema-corte-dos-eua-rejeita-acao-do-texas-para-reverter-derrota-de-trump-nas-eleicoes.ghtml",
+        "urlToImage": "https://s2.glbimg.com/tgFlv9nFGSG-m_YALMCWRpVoMEw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/t/S/KD1cx8SDugXT8VwqUI6g/2020-12-10t120004z-1578231250-rc2ckk9bwen9-rtrmadp-3-global-poy-usa-election.jpg",
+        "publishedAt": "2020-12-11T23:50:00Z",
+        "content": "A Suprema Corte dos Estados Unidosnegou nesta sexta-feira (11) o pedido do procurador-geral do Texas para anular o resultado das eleições presidenciais em estados-chave que deram vitória a Joe Biden,… [+2207 chars]"
+      }
+    ]
+  }
